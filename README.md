@@ -1,4 +1,3 @@
-<!--
     Stump-based 24x24 discrete(?) adaboost frontal face detector.
     Created by Rainer Lienhart.
 
@@ -40,4 +39,3 @@
  and on any theory of liability, whether in contract, strict liability,
  or tort (including negligence or otherwise) arising in any way out of
  the use of this software, even if advised of the possibility of such damage.
--->
