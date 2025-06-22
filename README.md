@@ -3,7 +3,7 @@
 This Python program detects human faces using either a **live webcam feed** or an **uploaded image**. It uses OpenCV’s Haar Cascade Classifier for face detection.
 
 I developed this project based on a tutorial from this YouTube video:  
-🔗 [YouTube Tutorial](https://www.youtube.com/watch?v=7lFhsbfby9s&list=WL&index=3&t=3s)
+🔗 [YouTube Tutorial](https://www.youtube.com/watch?v=7IFhsbfby9s&list=WL&index=3&t=6s)
 
 ---
 
