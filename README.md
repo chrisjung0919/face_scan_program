@@ -41,7 +41,7 @@ python detect_face_image.py path/to/your/image.jpg
 ---
 
 ## 📌 Notes
-- You may need to download the `haarcascade_frontalface_default.xml` file from OpenCV’s GitHub repo.
+- You may need to download the [`haarcascade_frontalface_default.xml`](https://github.com/npinto/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml) file from OpenCV’s GitHub repo.
 - Adjust the detection sensitivity using parameters in `detectMultiScale()` if you’re getting false positives (e.g., squares on arms or chins).
 
 ---
